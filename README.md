@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @braveheart0131
 - 🌱 I’m currently learning Playwright
-- 💞️ I’m looking to collaborate on QUality/ CI CD projects
+- 💞️ I’m looking to collaborate on Quality/ CI CD projects
 - 📫 How to reach me - DM me
 
 <!---
