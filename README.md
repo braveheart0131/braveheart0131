@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @braveheart0131
+- 👋 Hi, I’m Devika 
 - 🌱 I’m currently learning Playwright
 - 💞️ I’m looking to collaborate on Quality/ CI CD projects
 - 📫 How to reach me - DM me
